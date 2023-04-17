@@ -1,0 +1,52 @@
+.body {
+    background-color: hsl(212, 45%, 89%);
+    min-width: 375px;
+    min-height: 550px;
+    margin: 0px;
+}
+
+.main-div {
+    width: fit-content;
+    height: auto;
+    padding: 15px;
+    border: 1px hidden;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    background-color: hsl(0, 0%, 100%);
+    box-shadow: 0px 0px 20px 3px hsl(220, 15%, 55%);
+}
+
+.image {
+    display: block;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 283px;
+    width: 283px;
+}
+
+.main-text {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    color: hsl(218, 44%, 22%);
+}
+
+.sub-text {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
